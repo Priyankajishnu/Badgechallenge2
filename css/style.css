@@ -29,7 +29,8 @@ table,th,td{
 }
 th{
     background:yellow;
-    font-size: 21px;    font-weight: bold;
+    font-size: 20px; 
+    font-weight: bold;
     padding: 15px;
     
 }
